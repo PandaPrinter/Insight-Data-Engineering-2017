@@ -77,7 +77,7 @@ public class Antifraud {
                 
                 g.addEdge(userId1, userId2);
                 oneDegree = false;
-                twoDegree = true;
+                twoDegree = false;
             }
             
             w1.close();
