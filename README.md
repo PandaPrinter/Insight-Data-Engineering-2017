@@ -1,3 +1,9 @@
+##Note
+
+Since I have chosen OpenCSV as my csv parser library, I have put common-lang3.jar and opencsv-3.8.jar in src directory and run.sh will load both jar files when you compile and run the program.   
+
+
+
 # Table of Contents
 
 1. [Challenge Summary] (README.md#challenge-summary)
