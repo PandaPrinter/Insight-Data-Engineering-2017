@@ -2,6 +2,6 @@
 
 cd src
 javac -cp 'common-lang3.jar:opencsv-3.8.jar' *.java
-java -cp '.:common-lang3.jar:opencsv-3.8.jar' Antifraud ../paymo_input/batch_payment.txt ../paymo_input/stream_payment.txt ../paymo_output/output1.txt ../paymo_output/output2.txt ../paymo_output/output3.txt
+java -cp '.:common-lang3.jar:opencsv-3.8.jar' Antifraud ../paymo_input/batch_payment.csv ../paymo_input/stream_payment.csv ../paymo_output/output1.txt ../paymo_output/output2.txt ../paymo_output/output3.txt
 
 
